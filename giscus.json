@@ -3,6 +3,6 @@
     "https://www.chanshiyu.com",
     "https://chanshiyu.com"
   ],
-  "originsRegex": ["http://localhost:[0-9]+"]
+  "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }

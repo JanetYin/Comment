@@ -1,7 +1,7 @@
 {
   "origins": [
-    "https://www.chanshiyu.com",
-    "https://chanshiyu.com"
+    "https://www.yun37.me",
+    "https://yun37.me"
   ],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
